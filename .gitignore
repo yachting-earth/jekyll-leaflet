@@ -2,3 +2,5 @@ docs/.sass-cache/
 docs/_site/
 tests/manual/_site/
 *.gem
+*.sublime-project
+*.sublime-workspace
